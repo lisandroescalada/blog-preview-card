@@ -34,16 +34,14 @@ body {
     border-radius: 1rem;
     width: 100%;
     height: auto;
-    margin-bottom: .5rem;
+    margin-bottom: 1.6rem;
 }
 
 .blog-category {
-    font-weight: 800;
-    padding: .5rem;
     background-color: var(--yellow);
+    padding: .3rem .9rem;
     border-radius: 5px;
-    text-align: center;
-    width: 23%;
+    font-weight: 800;
 }
 
 .blog-date {
