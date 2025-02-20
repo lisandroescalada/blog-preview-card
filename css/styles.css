@@ -50,6 +50,10 @@ body {
     font-weight: 500;
 }
 
+.blog-header:hover {
+    color: var(--yellow);
+}
+
 .blog-text {
     color: var(--gray-500);
 }
